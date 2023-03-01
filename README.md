@@ -14,3 +14,4 @@ STEP 3- Fill all the details and press the sign up button, a pop box will occur 
 Step 4- After signing you will be directly navigated to the Login page
 STEP 5- Click on Contact us which is present in the header or on the button present below About us
 ![image](https://user-images.githubusercontent.com/79158208/222197449-6c4d53e5-ff47-4aac-b2bb-1d6e745213b1.png)
+After filling out all the details you will get a pop up box confirming that your problem has been recorded. Step 6- At the top in the header you'll get the logout button, so simply click on that and you will be logged out from the website.
